@@ -1,3 +1,7 @@
 Percobaan pertama pada GitHub
 -> Membuat file secara langsung pada GitHub
 .....
+
+Tambahan teks line baru
+qwertyuiop123445040923048218723492
+teks line baru
