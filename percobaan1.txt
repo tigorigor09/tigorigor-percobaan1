@@ -1,0 +1,3 @@
+Percobaan pertama pada GitHub
+-> Membuat file secara langsung pada GitHub
+.....
