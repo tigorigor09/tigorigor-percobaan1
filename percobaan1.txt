@@ -3,5 +3,7 @@ Percobaan pertama pada GitHub
 .....
 
 Tambahan teks line baru
-qwertyuiop123445040923048218723492
-teks line baru
+
+penambahan teks baru lagi 
+ini adalah penambahan teks baru 1
+ini adalah penambahan teks baru 2
