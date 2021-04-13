@@ -2,7 +2,10 @@ Rencana Pemrograman 2021
 -> Html & CSS
    - memplajari dasar-dasar dari HTML dan CSS
    - mencoba membuat project menggunakan HTML dan CSS
+     - kalkulator sederhana
 -> Fundamentals data structures
 -> JavaScript
 -> Git dan GitHub
 -> Framework pemrograman
+   - CodeIgniter
+-> Python
