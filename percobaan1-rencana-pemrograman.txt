@@ -1,0 +1,7 @@
+Rencana Pemrograman 2021
+-> Html & CSS
+   - memplajari dasar-dasar dari HTML dan CSS
+   - mencoba membuat project menggunakan HTML dan CSS
+-> JavaScript
+-> Git dan GitHub
+-> Framework pemrograman
